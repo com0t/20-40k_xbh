@@ -1,0 +1,1195 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Lara Google Analytics\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-18 20:21+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.7-alpha-49973\n"
+"X-Domain: lara-google-analytics"
+
+#: core/lrgawidget.class.php:93 widgets/lrgawidget.php:529
+msgid "% New Sessions"
+msgstr ""
+
+#: widgets/lrgawidget.php:1022
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: widgets/lrgawidget.php:176
+msgid "1"
+msgstr ""
+
+#: widgets/lrgawidget.php:910
+msgid "12 Months of Free Updates and Support"
+msgstr ""
+
+#: widgets/lrgawidget.php:177
+msgid "2"
+msgstr ""
+
+#: widgets/lrgawidget.php:178
+msgid "3"
+msgstr ""
+
+#: widgets/lrgawidget.php:1037
+msgid ": activate to sort column ascending"
+msgstr ""
+
+#: widgets/lrgawidget.php:1038
+msgid ": activate to sort column descending"
+msgstr ""
+
+#: widgets/lrgawidget.php:37
+msgid "<b>Linux:</b> F5"
+msgstr ""
+
+#: widgets/lrgawidget.php:36
+msgid "<b>Mac/Apple:</b> Apple + R <u>or</u> Command + R"
+msgstr ""
+
+#: widgets/lrgawidget.php:712
+msgid ""
+"<b>Position</b> is the average ranking of your website URLs for that query "
+"or keyword, on Google search results."
+msgstr ""
+
+#: widgets/lrgawidget.php:35
+msgid "<b>Windows:</b> Ctrl + F5 <u>or</u> SHIFT + Reload for firefox"
+msgstr ""
+
+#: widgets/lrgawidget.php:951
+msgid ""
+"<b>XtraOrbit</b> has been providing a wide range of services <b>since "
+"2002</b>, including <b>Web Hosting</b>, <b>Domain Names</b> & <b>Web "
+"Development</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:222 widgets/lrgawidget.php:311
+msgid "Access Code"
+msgstr ""
+
+#: widgets/lrgawidget.php:350
+msgid "Account"
+msgstr ""
+
+#: widgets/lrgawidget.php:402
+msgid "Account Name"
+msgstr ""
+
+#: widgets/lrgawidget.php:575
+msgid "Active Page"
+msgstr ""
+
+#: widgets/lrgawidget.php:575
+msgid "Active Users"
+msgstr ""
+
+#: widgets/lrgawidget.php:565
+msgid "active users on site"
+msgstr ""
+
+#: widgets/lrgawidget.php:381
+msgid "Add <b>Google Universal Analytics</b> tracking code to all pages."
+msgstr ""
+
+#: core/lrgawidget.permissions.php:29
+msgid "Administrator [Change Settings]"
+msgstr ""
+
+#: widgets/lrgawidget.php:244
+msgid "Advanced Setup"
+msgstr ""
+
+#: widgets/lrgawidget.php:437
+msgid ""
+"After adding your website to <b>Google Search Console</b> and verifying "
+"ownership, clich <b>Reload</b>, to reload the <b>Search Console Property "
+"URL</b> menu."
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:62
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:84
+msgid "All Orders"
+msgstr ""
+
+#: widgets/lrgawidget.php:1041
+msgid ""
+"All saved authentication data will be removed. Do you want to continue ?!"
+msgstr ""
+
+#: widgets/lrgawidget.php:1058
+msgid "Apply"
+msgstr ""
+
+#: widgets/lrgawidget.php:1077
+msgid "April"
+msgstr ""
+
+#: widgets/lrgawidget.php:1081
+msgid "August"
+msgstr ""
+
+#: widgets/lrgawidget.php:177
+msgid "Authorize APP"
+msgstr ""
+
+#: widgets/lrgawidget.php:324
+msgid "Authorize App"
+msgstr ""
+
+#: core/lrgawidget.class.php:95 widgets/lrgawidget.php:515
+msgid "Avg. Session Duration"
+msgstr ""
+
+#: widgets/lrgawidget.php:330
+msgid ""
+"Be sure to use the same email account that is linked to your <b>Google "
+"Analytics</b> and <b>Google Search Console</b> (formerly, Google Webmaster "
+"tools)."
+msgstr ""
+
+#: core/lrgawidget.permissions.php:57
+msgid "beta"
+msgstr ""
+
+#: core/lrgawidget.class.php:94 widgets/lrgawidget.php:522
+msgid "Bounce Rate"
+msgstr ""
+
+#: widgets/lrgawidget.php:609
+msgid "Browser"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:42 widgets/lrgawidget.php:129
+msgid "Browsers"
+msgstr ""
+
+#: widgets/lrgawidget.php:894
+msgid "Browsers versions (IE 6, IE 7 .. etc.)."
+msgstr ""
+
+#: widgets/lrgawidget.php:930
+msgid "Buy Now"
+msgstr ""
+
+#: widgets/lrgawidget.php:868
+msgid "Buy the Premium version and get access to these amazing features"
+msgstr ""
+
+#: widgets/lrgawidget.php:247
+msgid ""
+"By clicking on <b>Start Advanced Setup</b> button below, The setup wizard "
+"will guide you through creating and/or configuring your own Google "
+"Application."
+msgstr ""
+
+#: widgets/lrgawidget.php:1049
+msgid "cached"
+msgstr ""
+
+#: widgets/lrgawidget.php:1059
+msgid "Cancel"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:45
+msgid "Cancelled"
+msgstr ""
+
+#: widgets/lrgawidget.php:421
+msgid "Cannot find your Google Analytics property ?"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:65
+msgid "Categories"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:37
+msgid "Change Date Range"
+msgstr ""
+
+#: widgets/lrgawidget.php:904
+msgid "Check any Date Range, not just the last 30 days"
+msgstr ""
+
+#: widgets/lrgawidget.php:917
+msgid ""
+"Check the<strong> Demo</strong> to see exactly how the premium version looks "
+"like, and what you will get from it without leaving your wordpress dashboard"
+msgstr ""
+
+#: widgets/lrgawidget.php:209 widgets/lrgawidget.php:331
+msgid ""
+"Click <b>Allow</b>, then copy and paste the access code here, and click <b>"
+"Submit</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:287
+msgid ""
+"Click on <b>CREATE PROJECT</b>, choose a <b>Project name</b>, then click <b>"
+"CREATE</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:204
+msgid ""
+"Click on <b>Sign in with Google</b> button below, and a pop-up window will "
+"open, asking you to allow <b>Lara Analytics Widget</b> to access the "
+"following:"
+msgstr ""
+
+#: widgets/lrgawidget.php:325
+msgid ""
+"Click on <b>Sign in with Google</b> button below, and a pop-up window will "
+"open, asking you to allow the <b>app you just created</b> to :"
+msgstr ""
+
+#: widgets/lrgawidget.php:706
+msgid "Clicks"
+msgstr ""
+
+#: widgets/lrgawidget.php:261
+msgid "Client ID"
+msgstr ""
+
+#: widgets/lrgawidget.php:269
+msgid "Client Secret"
+msgstr ""
+
+#: widgets/lrgawidget.php:96
+msgid "Close"
+msgstr ""
+
+#: widgets/lrgawidget.php:954
+msgid "Come, check us out!"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:58
+msgid "comming soon"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:42
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:52
+msgid "Completed"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:106
+msgid ""
+"Could not get or set widget permissions .. please contact an administrator"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:41 widgets/lrgawidget.php:126
+msgid "Countries"
+msgstr ""
+
+#: widgets/lrgawidget.php:590
+msgid "Country"
+msgstr ""
+
+#: widgets/lrgawidget.php:176 widgets/lrgawidget.php:282
+msgid "Create Google APP"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:50
+msgid "Created"
+msgstr ""
+
+#: widgets/lrgawidget.php:706
+msgid "CTR"
+msgstr ""
+
+#: core/callURL.class.php:89
+msgid ""
+"cURL is not installed/enabled on your server. Please contact your server "
+"administrator or hosting provider for assistance with installing/enabling "
+"cURL extension for PHP."
+msgstr ""
+
+#: widgets/lrgawidget.php:1062
+msgid "Custom Range"
+msgstr ""
+
+#: core/system/wordpress/system.bootstrap.class.php:66
+#: core/system/wordpress/system.bootstrap.class.php:80
+#: core/system/wordpress/system.bootstrap.class.php:83
+#: core/system/wordpress/system.bootstrap.class.php:86
+msgid "DataBase Error .. please contact an administrator"
+msgstr ""
+
+#: widgets/lrgawidget.php:1085
+msgid "December"
+msgstr ""
+
+#: widgets/lrgawidget.php:668
+msgid "Device Type"
+msgstr ""
+
+#: widgets/lrgawidget.php:896
+msgid "Device Types and brands (Samsung, Apple .. etc.)."
+msgstr ""
+
+#: core/lrgawidget.permissions.php:45 widgets/lrgawidget.php:138
+msgid "Devices"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:58
+msgid "Easy Digital Downloads"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:53
+msgid "eCommerce Graphs"
+msgstr ""
+
+#: widgets/lrgawidget.php:880
+msgid ""
+"eCommerce graphs : </b>Highly customized earnings graphs, for popular "
+"WordPress eCommerce plugins, like WooCommerce."
+msgstr ""
+
+#: core/lrgawidget.permissions.php:38
+msgid "Edit Graph Options"
+msgstr ""
+
+#: core/plugins/earnings/lrga_earnings_sales.php:50
+msgid "Empty Series"
+msgstr ""
+
+#: widgets/lrgawidget.php:385
+msgid "Enable eCommerce graphs."
+msgstr ""
+
+#: widgets/lrgawidget.php:201
+msgid "Express Setup"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:44
+msgid "Failed"
+msgstr ""
+
+#: core/callURL.class.php:89 core/lrgawidget.class.php:469
+#: core/lrgawidget.handler.php:23 core/lrgawidget.handler.php:28
+#: core/lrgawidget.handler.php:38 core/lrgawidget.handler.php:103
+#: core/lrgawidget.handler.php:106 core/lrgawidget.permissions.php:106
+#: widgets/lrgawidget.php:29 widgets/lrgawidget.php:50
+#: core/system/wordpress/system.bootstrap.class.php:66
+#: core/system/wordpress/system.bootstrap.class.php:80
+#: core/system/wordpress/system.bootstrap.class.php:83
+#: core/system/wordpress/system.bootstrap.class.php:86
+msgid "Fatal Error"
+msgstr ""
+
+#: widgets/lrgawidget.php:1075
+msgid "February"
+msgstr ""
+
+#: widgets/lrgawidget.php:1031
+msgid "First"
+msgstr ""
+
+#: widgets/lrgawidget.php:1070
+msgid "Fr"
+msgstr ""
+
+#: widgets/lrgawidget.php:1060
+msgid "From"
+msgstr ""
+
+#: widgets/lrgawidget.php:293
+msgid ""
+"From the side menu, click on <b>Credentials</b>, then click on <b>CREATE "
+"CREDENTIALS</b>, and select <b>OAuth client ID</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:288
+msgid ""
+"From the top <b>Search for APIs and Services</b> box, search for <b>Google "
+"Analytics API</b>, select it, then click <b>ENABLE</b>."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Full width Google Analytics dashboard widget for Wordpress admin interface, "
+"which also inserts latest Google Analytics tracking code to your pages."
+msgstr ""
+
+#: widgets/lrgawidget.php:188
+msgid "Go Back to Express Setup"
+msgstr ""
+
+#: widgets/lrgawidget.php:150 widgets/lrgawidget.php:867
+msgid "Go Premium !"
+msgstr ""
+
+#: widgets/lrgawidget.php:29 widgets/lrgawidget.php:50
+#: widgets/lrgawidget.php:69
+msgid "Google Analytics"
+msgstr ""
+
+#: core/GoogleAnalyticsAPI.class.php:85 core/GoogleAnalyticsAPI.class.php:97
+msgid ""
+"Google Replied with unexpected replay, enable debugging to check the reply"
+msgstr ""
+
+#: widgets/lrgawidget.php:75
+msgid "Graph Options"
+msgstr ""
+
+#: widgets/lrgawidget.php:974
+msgid "Help & Support"
+msgstr ""
+
+#: core/plugins/earnings/lrga_earnings_sales.php:53
+#: core/plugins/earnings/lrga_earnings_sales.php:59
+msgid "Hide"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.xtraorbit.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.xtraorbit.com/wordpress-google-analytics-dashboard-widget/"
+msgstr ""
+
+#: core/review.notice.php:48
+msgid "I already rated it"
+msgstr ""
+
+#: widgets/lrgawidget.php:545 widgets/lrgawidget.php:575
+#: widgets/lrgawidget.php:609 widgets/lrgawidget.php:629
+#: widgets/lrgawidget.php:649 widgets/lrgawidget.php:668
+#: widgets/lrgawidget.php:687 widgets/lrgawidget.php:706
+#: widgets/lrgawidget.php:731
+msgid "ID"
+msgstr ""
+
+#: widgets/lrgawidget.php:40
+msgid ""
+"If this did not fix the problem, please  <a href=\"https://clients.xtraorbit."
+"com/submitticket.php?step=2&deptid=2&subject=Plugin-UNABLE-TO-LOAD\" "
+"target=\"_blank\">open a support ticket</a>, and we will do our best to fix "
+"it."
+msgstr ""
+
+#: widgets/lrgawidget.php:975
+msgid ""
+"If you are facing any issues, need support or have a new feature request, "
+"visit the official plugin support forum, where you will be able to submit a "
+"support ticket."
+msgstr ""
+
+#: widgets/lrgawidget.php:31
+msgid ""
+"If you are using an adblocker, please <b>disable</b> it on this page, then "
+"<b>clear the cache memory of your browser</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:211
+msgid ""
+"If you are using the <b>premium</b> version of the plugin, that email "
+"account should also be linked to your <b>Google Search Console</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:436
+msgid ""
+"If you cannot find your website, please go to <a href=\"https://www.google."
+"com/webmasters/tools/\" target=\"_blank\">Google Search Console</a> and "
+"click on <b>Add a property</b>, to add your website."
+msgstr ""
+
+#: core/review.notice.php:40 widgets/lrgawidget.php:965
+msgid ""
+"If you have a free moment, and want to help us spread the word and boost our "
+"motivation, please do us a BIG favour and give us 5 Stars rating on "
+"wordpress .. The more reviews we get, the more cool features we will add to "
+"the plugin :)"
+msgstr ""
+
+#: widgets/lrgawidget.php:422
+msgid ""
+"If you have recently created a new property, you might not see it here, as "
+"the new Google API for <b>GA4</b> properties is still in <u><a href=\"https:"
+"//developers.google.com/analytics/devguides/config/mgmt/v3\" "
+"target=\"_blank\">beta</a></u>."
+msgstr ""
+
+#: widgets/lrgawidget.php:248
+msgid ""
+"If you want a quick start, or just trying the widget, use the <b>Express "
+"Setup</b> on the left."
+msgstr ""
+
+#: widgets/lrgawidget.php:210
+msgid ""
+"If you were asked to login, be sure to use the same email account that is "
+"linked to your <b>Google Analytics</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:706
+msgid "Impressions"
+msgstr ""
+
+#: widgets/lrgawidget.php:1051
+msgid "inactive"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:25
+msgid "Income"
+msgstr ""
+
+#: widgets/lrgawidget.php:1042
+msgid ""
+"Initial Setup Required! - Please contact an administratior to complete the "
+"widget setup."
+msgstr ""
+
+#: core/lrgawidget.handler.php:23 core/lrgawidget.handler.php:28
+#: core/lrgawidget.handler.php:38 core/lrgawidget.handler.php:103
+#: core/lrgawidget.handler.php:106
+msgid "Invalid Call"
+msgstr ""
+
+#: core/GoogleAnalyticsAPI.class.php:130
+msgid "Invalid Property"
+msgstr ""
+
+#: core/GoogleAnalyticsAPI.class.php:85 core/GoogleAnalyticsAPI.class.php:97
+msgid "Invalid Reply"
+msgstr ""
+
+#: widgets/lrgawidget.php:1074
+msgid "January"
+msgstr ""
+
+#: widgets/lrgawidget.php:1080
+msgid "July"
+msgstr ""
+
+#: widgets/lrgawidget.php:1079
+msgid "June"
+msgstr ""
+
+#: widgets/lrgawidget.php:706
+msgid "Keyword"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:47 widgets/lrgawidget.php:144
+msgid "Keywords"
+msgstr ""
+
+#: widgets/lrgawidget.php:886
+msgid "Keywords ( provided by Google Search Console)."
+msgstr ""
+
+#: widgets/lrgawidget.php:629
+msgid "Language"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:43 widgets/lrgawidget.php:132
+msgid "Languages"
+msgstr ""
+
+#. Name of the plugin
+msgid "Lara's Google Analytics"
+msgstr ""
+
+#: widgets/lrgawidget.php:1032
+msgid "Last"
+msgstr ""
+
+#: widgets/lrgawidget.php:1046
+msgid "Last 30 Days"
+msgstr ""
+
+#: widgets/lrgawidget.php:1045
+msgid "Last 7 Days"
+msgstr ""
+
+#: widgets/lrgawidget.php:1048
+msgid "Last Month"
+msgstr ""
+
+#: widgets/lrgawidget.php:920
+msgid "Launch Demo"
+msgstr ""
+
+#: core/review.notice.php:44 widgets/lrgawidget.php:967
+msgid "Let's do it, You deserve it"
+msgstr ""
+
+#: widgets/lrgawidget.php:85 widgets/lrgawidget.php:93
+msgid "Loading data, please wait !"
+msgstr ""
+
+#: widgets/lrgawidget.php:1026
+msgid "Loading..."
+msgstr ""
+
+#: widgets/lrgawidget.php:391
+msgid "Lock settings"
+msgstr ""
+
+#: widgets/lrgawidget.php:879
+msgid ""
+"Lock Settings : </b>Prevent users from changing the widget settings or "
+"viewing other Google analytics profiles."
+msgstr ""
+
+#: widgets/lrgawidget.php:166
+msgid "Make sure that your group has proper permissions to access the widget."
+msgstr ""
+
+#: widgets/lrgawidget.php:1076
+msgid "March"
+msgstr ""
+
+#: widgets/lrgawidget.php:1078
+msgid "May"
+msgstr ""
+
+#: core/GoogleAnalyticsAPI.class.php:43
+msgid ""
+"Missing Search Console Property URL - Please use the <b>Settings</b> tab to "
+"choose a valid <b>Search Console Property URL</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:1066
+msgid "Mo"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:51
+msgid "Modified"
+msgstr ""
+
+#: widgets/lrgawidget.php:877
+msgid ""
+"Multisite Multi-Network enabled : </b>Every blog/site in your network can "
+"has its own analytics tracking code and dashboard widget."
+msgstr ""
+
+#: widgets/lrgawidget.php:1033
+msgid "Next"
+msgstr ""
+
+#: widgets/lrgawidget.php:1053
+msgid "No active users"
+msgstr ""
+
+#: widgets/lrgawidget.php:1019
+msgid "No data available in table"
+msgstr ""
+
+#: widgets/lrgawidget.php:1044
+msgid ""
+"No data available in table. <span class='pull-left'><ul><li>Did you <a "
+"href='https://support.google.com/webmasters/answer/34592?hl=en' "
+"target='_blank'>add your website to Google Search Console</a> ?</li><li>"
+"After adding your website to Google Search Console, did you save it as the "
+"<b>Search Console Property URL</b> in the widget <b>Settings</b> tab ?</li>"
+"<li>If you have added your website recently, keywords may take some time to "
+"appear.</li></ul></span>"
+msgstr ""
+
+#: widgets/lrgawidget.php:1029
+msgid "No matching records found"
+msgstr ""
+
+#: core/review.notice.php:52
+msgid "Not Interested"
+msgstr ""
+
+#: widgets/lrgawidget.php:1084
+msgid "November"
+msgstr ""
+
+#: widgets/lrgawidget.php:1083
+msgid "October"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:41
+msgid "On Hold"
+msgstr ""
+
+#: widgets/lrgawidget.php:292
+msgid ""
+"On the next screen, choose an <b>Application name</b>, then click <b>Save</b>"
+"."
+msgstr ""
+
+#: widgets/lrgawidget.php:290
+msgid ""
+"Open <b>Google Developers Console</b> menu, by clicking on <i class=\"fas fa-"
+"bars fa-fw\"></i> and select <b>APIs & Services</b> <i class=\"fas fa-caret-"
+"right fa-fw\"></i> <b>OAuth consent screen</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:286
+msgid ""
+"Open the <a target=\"_blank\" href=\"//console.developers.google."
+"com/apis/credentials?project=_\">Google Developers Console</a>."
+msgstr ""
+
+#: widgets/lrgawidget.php:649
+msgid "Operating System"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:44 widgets/lrgawidget.php:135
+msgid "Operating Systems"
+msgstr ""
+
+#: widgets/lrgawidget.php:895
+msgid "Operating Systems versions (Windows 7, Windows 8 .. etc.)."
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:48
+msgid "Order Date"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:37
+msgid "Order Status"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:24
+msgid "Orders"
+msgstr ""
+
+#: widgets/lrgawidget.php:545
+msgid "Page"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:49 widgets/lrgawidget.php:120
+msgid "Pages"
+msgstr ""
+
+#: core/lrgawidget.class.php:96 widgets/lrgawidget.php:508
+msgid "Pages / Session"
+msgstr ""
+
+#: core/lrgawidget.class.php:92 widgets/lrgawidget.php:501
+#: widgets/lrgawidget.php:545
+msgid "Pageviews"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:53
+msgid "Paid"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:39
+msgid "Pending"
+msgstr ""
+
+#: widgets/lrgawidget.php:545 widgets/lrgawidget.php:575
+#: widgets/lrgawidget.php:590 widgets/lrgawidget.php:609
+#: widgets/lrgawidget.php:629 widgets/lrgawidget.php:649
+#: widgets/lrgawidget.php:668 widgets/lrgawidget.php:687
+#: widgets/lrgawidget.php:731
+msgid "Percentage"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:24
+msgid "Permissions"
+msgstr ""
+
+#: widgets/lrgawidget.php:878
+msgid ""
+"Permissions : </b>Easily control which data is viwed by your blog admins and "
+"users (also compatible with Multisite Multi-Network)."
+msgstr ""
+
+#: widgets/lrgawidget.php:433
+msgid ""
+"Please choose a valid <b>Search Console Property URL</b>, or the widget will "
+"not be able to get keywords data for your website."
+msgstr ""
+
+#: widgets/lrgawidget.php:706
+msgid "Position"
+msgstr ""
+
+#: widgets/lrgawidget.php:388
+msgid "Premium Settings"
+msgstr ""
+
+#: widgets/lrgawidget.php:1034
+msgid "Previous"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:40
+msgid "Processing"
+msgstr ""
+
+#: widgets/lrgawidget.php:1027
+msgid "Processing..."
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:69
+msgid "Products"
+msgstr ""
+
+#: widgets/lrgawidget.php:401
+msgid "Profile Details"
+msgstr ""
+
+#: widgets/lrgawidget.php:355
+msgid "Property"
+msgstr ""
+
+#: widgets/lrgawidget.php:403
+msgid "Property Name"
+msgstr ""
+
+#: widgets/lrgawidget.php:430
+msgid "Property Url"
+msgstr ""
+
+#: widgets/lrgawidget.php:404
+msgid "Property WebsiteUrl"
+msgstr ""
+
+#: widgets/lrgawidget.php:964
+msgid "Rate Us"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:40 widgets/lrgawidget.php:123
+#: widgets/lrgawidget.php:1050
+msgid "Real Time"
+msgstr ""
+
+#: widgets/lrgawidget.php:887
+msgid "Real Time site visitors"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:43
+msgid "Refunded"
+msgstr ""
+
+#: widgets/lrgawidget.php:439
+msgid "Reload"
+msgstr ""
+
+#: widgets/lrgawidget.php:289
+msgid ""
+"Repeat the above step to enable <b>Google Analytics Reporting API</b> and <b>"
+"Google Search Console API</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:185
+msgid "Reset all data and start over"
+msgstr ""
+
+#: widgets/lrgawidget.php:563
+msgid "Right now"
+msgstr ""
+
+#: widgets/lrgawidget.php:1071
+msgid "Sa"
+msgstr ""
+
+#: widgets/lrgawidget.php:95 widgets/lrgawidget.php:395
+#: widgets/lrgawidget.php:466
+msgid "Save"
+msgstr ""
+
+#: widgets/lrgawidget.php:141 widgets/lrgawidget.php:687
+msgid "Screen Resolution"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:46
+msgid "Screen Resolutions"
+msgstr ""
+
+#: widgets/lrgawidget.php:429
+msgid "Search Console Property"
+msgstr ""
+
+#: widgets/lrgawidget.php:1028
+msgid "Search:"
+msgstr ""
+
+#: widgets/lrgawidget.php:291
+msgid ""
+"Select <b>External</b> as the <b>User Type</b>, then click <b>CREATE</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:178
+msgid "Select Analytics Profile"
+msgstr ""
+
+#: widgets/lrgawidget.php:1043
+msgid "Select Property URL"
+msgstr ""
+
+#: widgets/lrgawidget.php:1082
+msgid "September"
+msgstr ""
+
+#: core/lrgawidget.class.php:90 core/lrgawidget.permissions.php:39
+#: widgets/lrgawidget.php:117 widgets/lrgawidget.php:487
+#: widgets/lrgawidget.php:590 widgets/lrgawidget.php:609
+#: widgets/lrgawidget.php:629 widgets/lrgawidget.php:649
+#: widgets/lrgawidget.php:668 widgets/lrgawidget.php:687
+#: widgets/lrgawidget.php:731
+msgid "Sessions"
+msgstr ""
+
+#: widgets/lrgawidget.php:91
+msgid "Settings"
+msgstr ""
+
+#: core/plugins/earnings/lrga_earnings_sales.php:52
+#: core/plugins/earnings/lrga_earnings_sales.php:58
+msgid "Show"
+msgstr ""
+
+#: widgets/lrgawidget.php:1025
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: widgets/lrgawidget.php:1021
+msgid "Showing 0 to 0 of 0 entries"
+msgstr ""
+
+#: widgets/lrgawidget.php:1020
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: widgets/lrgawidget.php:334
+msgid ""
+"Since your newly created app was not verified by Google, you will see <b>"
+"This app is not verified</b> warning. To continue, click on <b>Advanced</b>, "
+"then <u>Go to <b>Your APP Name</b></u>."
+msgstr ""
+
+#: core/lrgawidget.class.php:469
+msgid "Something went wrong .. please contact an administrator"
+msgstr ""
+
+#: widgets/lrgawidget.php:147 widgets/lrgawidget.php:731
+msgid "Source"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:48
+msgid "Sources"
+msgstr ""
+
+#: widgets/lrgawidget.php:249
+msgid "Start Advanced Setup"
+msgstr ""
+
+#: widgets/lrgawidget.php:1065
+msgid "Su"
+msgstr ""
+
+#: widgets/lrgawidget.php:229 widgets/lrgawidget.php:277
+#: widgets/lrgawidget.php:319
+msgid "Submit"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:28
+msgid "Super Administrator [Change Permissions]"
+msgstr ""
+
+#: widgets/lrgawidget.php:977
+msgid "Support Center"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:33
+msgid "Tabs"
+msgstr ""
+
+#: widgets/lrgawidget.php:295
+msgid ""
+"Take note of the <b>client ID</b> & <b>client secret</b> then click <b>OK</b>"
+"."
+msgstr ""
+
+#: widgets/lrgawidget.php:1069
+msgid "Th"
+msgstr ""
+
+#: core/review.notice.php:39
+msgid ""
+"Thank you for using <b>Lara Google Analytics</b> - WordPress plugin. We hope "
+"it has saved your valuable time and efforts!"
+msgstr ""
+
+#: widgets/lrgawidget.php:410
+msgid ""
+"The selected view is using a different timezone than your server's time zone,"
+" which <u>may</u> cause inaccurate dates/values."
+msgstr ""
+
+#: widgets/lrgawidget.php:30
+msgid ""
+"The widget was not able to load, which is usually caused by either an active "
+"<b>adblocker</b>, or a <b>conflicting plugin</b>. Some adblockers block all "
+"URLs containing certain words, like \"<b>google-analytics</b>\", which stops "
+"the widget from loading required files."
+msgstr ""
+
+#: widgets/lrgawidget.php:1047
+msgid "This Month"
+msgstr ""
+
+#: widgets/lrgawidget.php:424
+msgid "This will allow the widget to access your newly created property."
+msgstr ""
+
+#: widgets/lrgawidget.php:413
+msgid "Time Zone"
+msgstr ""
+
+#: widgets/lrgawidget.php:1061
+msgid "To"
+msgstr ""
+
+#: widgets/lrgawidget.php:33
+msgid "To clear the cache memory of your browser :"
+msgstr ""
+
+#: widgets/lrgawidget.php:423
+msgid ""
+"To overcome this limitation, when you create a <b>new</b> Google Analytics "
+"property, click on <b>Show Advanced Options</b> and then click on <b>Create "
+"a Universal Analytics Property</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:391
+msgid ""
+"To unlock after saving, you will need to <b>reset all data</b> and re-"
+"authorize with Google Analytics"
+msgstr ""
+
+#: widgets/lrgawidget.php:283
+msgid ""
+"To use the <b>Google Analytics</b> widget, you will need to create a <b>"
+"Google App</b> as follows :"
+msgstr ""
+
+#: widgets/lrgawidget.php:573
+msgid "Top Active Pages"
+msgstr ""
+
+#: widgets/lrgawidget.php:1052
+msgid "Total"
+msgstr ""
+
+#: core/plugins/earnings/lrga_earnings_sales.php:56
+msgid "Totals"
+msgstr ""
+
+#: widgets/lrgawidget.php:888
+msgid "Traffic sources."
+msgstr ""
+
+#: widgets/lrgawidget.php:1067
+msgid "Tu"
+msgstr ""
+
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:72
+msgid "Types"
+msgstr ""
+
+#: widgets/lrgawidget.php:294
+msgid ""
+"Under <b>Application type</b>, select <b>Desktop app</b>, choose a name, "
+"then click <b>CREATE</b>."
+msgstr ""
+
+#: core/lrgawidget.class.php:91 widgets/lrgawidget.php:494
+msgid "Users"
+msgstr ""
+
+#: widgets/lrgawidget.php:360
+msgid "View"
+msgstr ""
+
+#: widgets/lrgawidget.php:933
+msgid "View all premuim features details"
+msgstr ""
+
+#: widgets/lrgawidget.php:405
+msgid "View Name"
+msgstr ""
+
+#: widgets/lrgawidget.php:207 widgets/lrgawidget.php:328
+msgid "View Search Console data for your verified sites"
+msgstr ""
+
+#: widgets/lrgawidget.php:407 widgets/lrgawidget.php:412
+msgid "View Time Zone"
+msgstr ""
+
+#: widgets/lrgawidget.php:406
+msgid "View Type"
+msgstr ""
+
+#: widgets/lrgawidget.php:206 widgets/lrgawidget.php:327
+msgid "View your Google Analytics data"
+msgstr ""
+
+#: widgets/lrgawidget.php:889
+msgid "Visitors Countries"
+msgstr ""
+
+#: widgets/lrgawidget.php:1063
+msgid "W"
+msgstr ""
+
+#: widgets/lrgawidget.php:1068
+msgid "We"
+msgstr ""
+
+#: widgets/lrgawidget.php:952
+msgid ""
+"We mix creativity with imagination, responsibility with passion, and "
+"resourcefulness with fun. That is what we do everyday within our company."
+msgstr ""
+
+#: widgets/lrgawidget.php:297
+msgid ""
+"When done, paste the <b>client ID</b> & <b>client secret</b> here and click "
+"<b>Submit</b>."
+msgstr ""
+
+#: widgets/lrgawidget.php:950
+msgid "Who we are & What we do"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:57
+#: core/plugins/earnings/wordpress/lrga_wp_woo_plugin.php:23
+msgid "WooCommerce"
+msgstr ""
+
+#: widgets/lrgawidget.php:388
+msgid "Works in the Pro version only"
+msgstr ""
+
+#. Author of the plugin
+msgid "XtraOrbit Web development SRL"
+msgstr ""
+
+#: core/lrgawidget.permissions.php:96
+msgid "You do not have permission to access this page"
+msgstr ""
+
+#: core/lrgawidget.handler.php:35 core/lrgawidget.handler.php:52
+#: core/lrgawidget.handler.php:56 core/lrgawidget.handler.php:60
+#: core/lrgawidget.handler.php:64 core/lrgawidget.handler.php:68
+#: core/lrgawidget.handler.php:72 core/lrgawidget.handler.php:76
+#: core/lrgawidget.handler.php:80 core/lrgawidget.handler.php:84
+#: core/lrgawidget.handler.php:88 core/lrgawidget.handler.php:92
+#: core/lrgawidget.handler.php:96 core/lrgawidget.handler.php:100
+msgid "You do not have permission to access this tab!"
+msgstr ""
+
+#: widgets/lrgawidget.php:165
+msgid "You do not have permission to view any tab!"
+msgstr ""
